@@ -1,0 +1,71 @@
+.center-buttons {
+    text-align: center;
+    margin: 10px;
+}
+
+.button-holder {
+    display: inline-block;
+    width: 60%;
+    margin: 2px;
+    text-align: center;
+}
+
+.button-list {
+    margin: 5px;
+}
+#friends {
+    background-image: url(../../assets/friendsCG.png) ;
+    width: 120px;
+    height: 50px;
+    margin-left: 45%;
+}
+#random {
+    background-image: url(../../assets/RandomCG.png) ;
+    width: 120px;
+    height: 50px;
+    margin-left: 45%;
+    
+}
+#difficulty {
+    background-image: url(../../assets/DifficutlyCG.png) ;
+    width: 150px;
+    height: 50px;
+    margin-left: 45%;
+    
+}
+#previous {
+    background-image: url(../../assets/PreviousCG.png) ;
+    width: 120px;
+    height: 50px;
+    margin-left: 45%;
+    
+}
+@media screen and (max-width: 375px){
+    #friends {
+        background-image: url(../../assets/friendsCG.png) ;
+        width: 120px;
+        height: 50px;
+        margin-left: 20%;
+    }
+    #random {
+        background-image: url(../../assets/RandomCG.png) ;
+        width: 120px;
+        height: 50px;
+        margin-left: 20%;
+        
+    }
+    #difficulty {
+        background-image: url(../../assets/DifficutlyCG.png) ;
+        width: 150px;
+        height: 50px;
+        margin-left: 20%;
+        
+    }
+    #previous {
+        background-image: url(../../assets/PreviousCG.png) ;
+        width: 120px;
+        height: 50px;
+        margin-left: 20%;
+        
+    }
+}

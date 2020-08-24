@@ -1,0 +1,38 @@
+#verify {
+    background-image: url(../../assets/VerifyDungeonCG.png) ;
+    width: 220px;
+    height: 50px;
+    margin-left: 45%;
+}
+.reset{
+    background-image: url(../../assets/ResetDungeonCG.png) ;
+    width: 220px;
+    height: 50px;
+    margin-left: 45%;
+}
+#save{
+    background-image: url(../../assets/Save\ Dungeon.png) ;
+    width: 220px;
+    height: 50px;
+    margin-left: 45%;
+}
+@media screen and (max-width: 375px){
+    #verify {
+        background-image: url(../../assets/VerifyDungeonCG.png) ;
+        width: 220px;
+        height: 50px;
+        margin-left: 25%;
+    }
+    .reset{
+        background-image: url(../../assets/ResetDungeonCG.png) ;
+        width: 220px;
+        height: 50px;
+        margin-left: 25%;
+    }
+    #save{
+        background-image: url(../../assets/Save\ Dungeon.png) ;
+        width: 220px;
+        height: 50px;
+        margin-left: 25%;
+    }
+}

@@ -1,0 +1,66 @@
+
+
+.container {
+    text-align: center;
+}
+.formdiv {
+    display: block;
+    text-align: center;
+
+}
+
+.formStyle {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.white-text {
+    color: white;
+    font-family: 'Muli', sans-serif;
+}
+
+.credits-container {
+    width: 50%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    padding: 10px;
+}
+
+.credits-wrapper {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.credits-text {
+    text-align: justify;
+    color: white;
+    margin: 2em;
+}
+
+.btn-center {
+    margin-left: 30px;
+}
+
+
+.login{
+    background-image: url(../../assets/LoginCG.png) ;
+    margin-left: 10%;
+    height: 50px;
+}
+.guest{
+    background-image: url(../../assets/GuestLoginCG.png) ;
+    margin-left: 1%;
+    height: 50px;
+}
+.signUp{
+    background-image: url(../../assets/SignUpCG.png) ;
+    margin-left: 1%;
+    height: 50px;
+}

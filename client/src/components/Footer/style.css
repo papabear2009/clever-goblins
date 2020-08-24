@@ -1,0 +1,43 @@
+.footer {
+  display:grid;
+  grid-template-columns:10% 80% 10%;
+  color: white;
+  min-height: 30px;
+  padding: 5px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+ 
+  }
+  @media screen and (max-width: 375px){
+    .footer {
+      display:grid;
+      grid-template-columns:10% 80% 10%;
+      color: white;
+      min-height: 30px;
+      padding: 5px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 95%;
+      text-align: center;
+     
+      }
+    }
+  .phantom {
+  display: block;
+  padding: 5px;
+  height:30px;
+  width: 100%;
+  }
+
+  .button {
+    float: left;
+    align-self: flex-end;
+  }
+
+  .footer-credits-link {
+    color: white
+  }

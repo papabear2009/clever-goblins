@@ -1,12 +1,11 @@
 
-# Employee Management System
+# Clever Goblin
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/papabear2009)
 
 ## Description
 ​
-A generator for employers to sort their employees
+An inter-player puzzle game, created to allow people to challenge their friends with their own user-created content. This is a MERN stack project using material UI for styling
 ​
-## Table of Contents
 
 ## Installation
 ​
@@ -20,20 +19,15 @@ npm install
 ![](screenshots/mobileScreenShot.png)
 
 ​
-## License
-​
-This project is licensed under the MIT license.
-  
-## Contributing
-​
-[]('https://github.com/') 
 
-## Tests
-​
-To run tests, run the following command:
-​
-npm test
-​
+## Technologies
+Node.js
+Express.js
+passport
+react
+material UI
+axios
+
 ## Questions
 ​
 <img src="https://avatars2.githubusercontent.com/u/66181937?v=4" alt="avatar" style="border-radius: 16px" width="30" />

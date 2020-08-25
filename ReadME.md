@@ -14,8 +14,8 @@ To install necessary dependencies, run the following command:
 ​
 npm install
 ​
-## Usage
-​
+## Screenshots
+![](screenshots/screenshot1.PNG.jpg)
 
 ​
 ## License
